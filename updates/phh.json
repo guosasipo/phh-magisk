@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "7.5.1",
+    "versionCode": "2020011011",
+    "link": "https://raw.githubusercontent.com/guosasipo/phh-magisk/main/MagiskManager-v7.5.1.apk",
+    "note": "https://raw.githubusercontent.com/guosasipo/phh-magisk/main/changelog.md"
+  },
+  "magisk": {
+    "version": "20.x-phh",
+    "versionCode": "2020011011",
+    "link": "https://github.com/guosasipo/phh-magisk/raw/main/magisk-phh.zip",
+    "note": "https://raw.githubusercontent.com/guosasipo/phh-magisk/main/changelog.md",
+    "md5": "df11fe13cf5a332688b7872860441272"
+  },
+    "uninstaller": {
+    "link": "https://github.com/guosasipo/phh-magisk/raw/main/magisk-phh.zip"
+  },
+    "snet": {
+    "versionCode": "12",
+    "link": "https://github.com/guosasipo/phh-magisk/raw/main/stub-release.apk"
+  }
+}
